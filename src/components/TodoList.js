@@ -11,7 +11,7 @@ function TodoList({tasks}) {
             return (
               <div key={item.id}>
               
-                <div className="listit">
+                <div className="statusdiv">
                   <input checked={item.completed} type="checkbox"></input>{" "}
                   <h6 className="mt-2 ms-4">{item.title}</h6>
                 </div>

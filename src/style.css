@@ -22,3 +22,16 @@ body{
     display:flex;
     justify-content: space-between;
 }
+.statusdiv{
+    display:flex;
+    justify-content:end;
+    
+}
+.complist{
+    display:flex;
+}
+.headlist{
+    display:flex;
+    justify-content: space-around;
+
+}
