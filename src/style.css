@@ -1,0 +1,24 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.todoform{
+    background-color:#E6E6FA;
+    color:#000000d5;
+}
+.addbtn{
+    width:100px;
+    border:none;
+    margin:20px
+    
+}
+.lcolor{
+    background-color: #cdd4df;
+}
+.bvcolor{
+    background-color: blueviolet;
+}
+.listit{
+    display:flex;
+    justify-content: space-between;
+}
